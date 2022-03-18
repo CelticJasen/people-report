@@ -1,0 +1,23 @@
+{
+  "name": "peoplereport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasen",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "fs": "0.0.1-security",
+    "local-devices": "^3.1.0",
+    "pm2": "^4.4.0"
+  }
+}
